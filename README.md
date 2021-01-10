@@ -1,7 +1,11 @@
-# spec-strip
+# 🧹 spec-strip
 Cleanup OpenAPI specs by path tags.
 
-# usage
+# Download
+
+[![GitHub Release](https://img.shields.io/github/release/wappgmbh/spec-strip.svg?style=flat)](https://github.com/wappgmbh/spec-strip/releases/latest)
+
+# Usage
 ```
 NAME
         spec-strip strip -
